@@ -22,3 +22,5 @@ Generation Factors
 -	Credit Card Debt 
 -	Average Salary
 <img width="468" height="394" alt="image" src="https://github.com/user-attachments/assets/bf693453-301c-40f5-bbf2-5b1cfc93d774" />
+
+TEST
